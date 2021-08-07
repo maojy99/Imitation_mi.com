@@ -1,5 +1,4 @@
 # Imitation_mi.com
-# copy_mi
 
 仿小米商城
 
